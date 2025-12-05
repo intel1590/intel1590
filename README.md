@@ -46,20 +46,5 @@ Built by OmDiaries.
 
 Repository: https://github.com/intel1590/laravel-ai-email-assistant  
 
----
-
-### Awesome Laravel  
-A curated list of Laravel packages, tools, and useful developer resources.
-
-Repository: https://github.com/intel1590/awesome-laravel  
-
----
-
-## Connect With Me  
-Email: your-email-here  
-LinkedIn: your-link-here  
-YouTube (OM Diaries): your YouTube link  
-
----
 
 ### “Building smarter tools that make developers faster.”
